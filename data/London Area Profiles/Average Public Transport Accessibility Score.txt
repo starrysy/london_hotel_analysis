@@ -1,0 +1,34 @@
+"Borough";"tspt_access"
+"City of London";90.8
+"Barking and Dagenham";5.6
+"Barnet";5.5
+"Bexley";4.6
+"Brent";9.2
+"Bromley";3.6
+"Camden";24.3
+"Croydon";6.8
+"Ealing";8.5
+"Enfield";4.6
+"Greenwich";8.4
+"Hackney";17.5
+"Hammersmith and Fulham";16.3
+"Haringey";12.6
+"Harrow";5.8
+"Havering";2.7
+"Hillingdon";3.6
+"Hounslow";5.8
+"Islington";26.7
+"Kensington and Chelsea";23.3
+"Kingston upon Thames";5.4
+"Lambeth";22.2
+"Lewisham";12.6
+"Merton";8.6
+"Newham";11.1
+"Redbridge";5.7
+"Richmond upon Thames";4.9
+"Southwark";20.5
+"Sutton";5.4
+"Tower Hamlets";18.5
+"Waltham Forest";7.8
+"Wandsworth";14
+"Westminster";39.8

@@ -1,0 +1,34 @@
+"Borough";"crime_rate"
+"City of London";732.69
+"Barking and Dagenham";89.76
+"Barnet";69.41
+"Bexley";60.8
+"Brent";90.96
+"Bromley";69.72
+"Camden";166.08
+"Croydon";79.38
+"Ealing";82.33
+"Enfield";78.14
+"Greenwich";88.94
+"Hackney";111.04
+"Hammersmith and Fulham";122.58
+"Haringey";109.81
+"Harrow";55.58
+"Havering";73.92
+"Hillingdon";91.69
+"Hounslow";92.21
+"Islington";138.59
+"Kensington and Chelsea";138.67
+"Kingston upon Thames";66.35
+"Lambeth";109.18
+"Lewisham";82.66
+"Merton";68.2
+"Newham";103.29
+"Redbridge";80.65
+"Richmond upon Thames";68.83
+"Southwark";110.26
+"Sutton";60.24
+"Tower Hamlets";105.07
+"Waltham Forest";82.99
+"Wandsworth";81.58
+"Westminster";247.32

@@ -1,0 +1,34 @@
+"Borough";"house_price"
+"City of London";835000
+"Barking and Dagenham";304995
+"Barnet";510000
+"Bexley";338000
+"Brent";477850
+"Bromley";435000
+"Camden";761000
+"Croydon";362000
+"Ealing";485000
+"Enfield";402000
+"Greenwich";418000
+"Hackney";535000
+"Hammersmith and Fulham";769975
+"Haringey";528000
+"Harrow";500000
+"Havering";350000
+"Hillingdon";415000
+"Hounslow";378000
+"Islington";617000
+"Kensington and Chelsea";1300000
+"Kingston upon Thames";487000
+"Lambeth";514750
+"Lewisham";420000
+"Merton";458000
+"Newham";389000
+"Redbridge";417250
+"Richmond upon Thames";640000
+"Southwark";537500
+"Sutton";360000
+"Tower Hamlets";479000
+"Waltham Forest";445000
+"Wandsworth";650000
+"Westminster";1040000

@@ -1,0 +1,34 @@
+"Borough";"population"
+"City of London";7681
+"Barking and Dagenham";212773
+"Barnet";397049
+"Bexley";249999
+"Brent";336859
+"Bromley";332733
+"Camden";252637
+"Croydon";391296
+"Ealing";350784
+"Enfield";337697
+"Greenwich";286322
+"Hackney";281740
+"Hammersmith and Fulham";184050
+"Haringey";284288
+"Harrow";255369
+"Havering";257511
+"Hillingdon";309926
+"Hounslow";278264
+"Islington";238267
+"Kensington and Chelsea";159301
+"Kingston upon Thames";179581
+"Lambeth";334724
+"Lewisham";310324
+"Merton";209421
+"Newham";353245
+"Redbridge";305910
+"Richmond upon Thames";199419
+"Southwark";322302
+"Sutton";207378
+"Tower Hamlets";317203
+"Waltham Forest";283524
+"Wandsworth";324400
+"Westminster";254375

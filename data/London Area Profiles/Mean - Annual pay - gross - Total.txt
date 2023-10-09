@@ -1,0 +1,34 @@
+"Borough";"avg_pay"
+"City of London";75981
+"Barking and Dagenham";26296
+"Barnet";28059
+"Bexley";26233
+"Brent";29008
+"Bromley";26929
+"Camden";40724
+"Croydon";30073
+"Ealing";29977
+"Enfield";26085
+"Greenwich";28756
+"Hackney";35259
+"Hammersmith and Fulham";39511
+"Haringey";28078
+"Harrow";29059
+"Havering";27262
+"Hillingdon";35561
+"Hounslow";37090
+"Islington";47183
+"Kensington and Chelsea";33757
+"Kingston upon Thames";28564
+"Lambeth";35163
+"Lewisham";29067
+"Merton";29524
+"Newham";30040
+"Redbridge";24005
+"Richmond upon Thames";32533
+"Southwark";39990
+"Sutton";27676
+"Tower Hamlets";67715
+"Waltham Forest";25012
+"Wandsworth";33904
+"Westminster";54841

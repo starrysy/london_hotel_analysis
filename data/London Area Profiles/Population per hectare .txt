@@ -1,0 +1,34 @@
+"Borough";"population_density"
+"City of London";26.5
+"Barking and Dagenham";58.9
+"Barnet";45.8
+"Bexley";41.3
+"Brent";77.9
+"Bromley";22.2
+"Camden";115.9
+"Croydon";45.2
+"Ealing";63.2
+"Enfield";41.8
+"Greenwich";60.5
+"Hackney";147.9
+"Hammersmith and Fulham";112.2
+"Haringey";96
+"Harrow";50.6
+"Havering";22.9
+"Hillingdon";26.8
+"Hounslow";49.7
+"Islington";160.4
+"Kensington and Chelsea";131.4
+"Kingston upon Thames";48.2
+"Lambeth";124.9
+"Lewisham";88.3
+"Merton";55.7
+"Newham";97.6
+"Redbridge";54.2
+"Richmond upon Thames";34.7
+"Southwark";111.7
+"Sutton";47.3
+"Tower Hamlets";160.4
+"Waltham Forest";73.1
+"Wandsworth";94.7
+"Westminster";118.4
